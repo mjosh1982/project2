@@ -1,1 +1,2 @@
 This is first message in my file
+Some bad changes to file
